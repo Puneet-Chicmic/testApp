@@ -1,0 +1,20 @@
+query Me {
+    me {
+      id
+      email
+      displayName
+      phone
+      picture
+      logins
+      firstLoginAt
+      lastLoginAt
+      createdAt
+      updatedAt
+      referredBy
+      referralCode
+      yellowCredits
+      isAdmin
+      defaultPaymentSourceId
+      isOperator
+    }
+  }
