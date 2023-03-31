@@ -53,3 +53,9 @@
 13	2253	1680253341	CMakeFiles/appmodules.dir/OnLoad.cpp.o	78267f753a7dd7ef
 12	7176	1680253346	CMakeFiles/appmodules.dir/Users/vivek/Documents/Test/testApp/android/app/build/generated/rncli/src/main/jni/rncli.cpp.o	959e6bbf114683c5
 7176	7481	1680253346	/Users/vivek/Documents/Test/testApp/android/app/build/intermediates/cxx/Debug/2o6j6vr7/obj/arm64-v8a/libappmodules.so	dadc58fa125920e3
+3	50	0	/Users/vivek/Documents/Test/testApp/android/app/.cxx/Debug/2o6j6vr7/arm64-v8a/CMakeFiles/cmake.verify_globs	9f4b791e26b270f2
+50	152	1680256490	build.ninja	a479bb1c982f589c
+0	19	0	/Users/vivek/Documents/Test/testApp/android/app/.cxx/Debug/2o6j6vr7/arm64-v8a/CMakeFiles/cmake.verify_globs	9f4b791e26b270f2
+11	2287	1680256492	CMakeFiles/appmodules.dir/OnLoad.cpp.o	78267f753a7dd7ef
+11	7285	1680256497	CMakeFiles/appmodules.dir/Users/vivek/Documents/Test/testApp/android/app/build/generated/rncli/src/main/jni/rncli.cpp.o	959e6bbf114683c5
+7285	7587	1680256498	/Users/vivek/Documents/Test/testApp/android/app/build/intermediates/cxx/Debug/2o6j6vr7/obj/arm64-v8a/libappmodules.so	dadc58fa125920e3
